@@ -8,7 +8,7 @@ It is simple to use by integrating AppRealKit into your Unity3D projects.
 Integrating from the Source Code
 -----------------------------
 
-Integrating Etool requires:
+Integrating AppRealKit requires:
 * Unity3D Engine
 * Android NDK, Xcode
 
